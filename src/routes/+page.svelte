@@ -12,6 +12,7 @@
   </CncText>
 
   <CncText delay={650}>
-    <p>September 3, 2022 @ 19:00-22:00 (UTC+7)</p>
+    <p>This month, the contest will be held on the SECOND Saturday instead of the FIRST Saturday. We apologize for the inconvenice.</p>
+    <p>September 10, 2022 @ 19:00-22:00 (UTC+7)</p>
   </CncText>
 </main>
